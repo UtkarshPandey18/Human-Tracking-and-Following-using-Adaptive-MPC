@@ -1,1 +1,1 @@
-# Human-Following-Human-Tracking-and-Following-using-Adaptive-MPC
+# Human-Tracking-and-Following-using-Adaptive-MPC
